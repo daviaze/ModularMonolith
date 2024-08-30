@@ -1,0 +1,13 @@
+C:\desenvolvimento\damExpress\ModularMonolith\ModularMonolith.Orders\bin\Debug\net8.0\ModularMonolith.Orders.deps.json
+C:\desenvolvimento\damExpress\ModularMonolith\ModularMonolith.Orders\bin\Debug\net8.0\ModularMonolith.Orders.dll
+C:\desenvolvimento\damExpress\ModularMonolith\ModularMonolith.Orders\bin\Debug\net8.0\ModularMonolith.Orders.pdb
+C:\desenvolvimento\damExpress\ModularMonolith\ModularMonolith.Orders\obj\Debug\net8.0\ModularMonolith.Orders.csproj.AssemblyReference.cache
+C:\desenvolvimento\damExpress\ModularMonolith\ModularMonolith.Orders\obj\Debug\net8.0\ModularMonolith.Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\desenvolvimento\damExpress\ModularMonolith\ModularMonolith.Orders\obj\Debug\net8.0\ModularMonolith.Orders.AssemblyInfoInputs.cache
+C:\desenvolvimento\damExpress\ModularMonolith\ModularMonolith.Orders\obj\Debug\net8.0\ModularMonolith.Orders.AssemblyInfo.cs
+C:\desenvolvimento\damExpress\ModularMonolith\ModularMonolith.Orders\obj\Debug\net8.0\ModularMonolith.Orders.csproj.CoreCompileInputs.cache
+C:\desenvolvimento\damExpress\ModularMonolith\ModularMonolith.Orders\obj\Debug\net8.0\ModularMonolith.Orders.sourcelink.json
+C:\desenvolvimento\damExpress\ModularMonolith\ModularMonolith.Orders\obj\Debug\net8.0\ModularMonolith.Orders.dll
+C:\desenvolvimento\damExpress\ModularMonolith\ModularMonolith.Orders\obj\Debug\net8.0\refint\ModularMonolith.Orders.dll
+C:\desenvolvimento\damExpress\ModularMonolith\ModularMonolith.Orders\obj\Debug\net8.0\ModularMonolith.Orders.pdb
+C:\desenvolvimento\damExpress\ModularMonolith\ModularMonolith.Orders\obj\Debug\net8.0\ref\ModularMonolith.Orders.dll
